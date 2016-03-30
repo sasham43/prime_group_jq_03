@@ -13,9 +13,3 @@ Finally, if the generate button is hit again, a new randomization should occur, 
 Possible stretches for you on this assignment:
 You may need to do a little research on how to shuffle the information.
 Additionally, you may need to play with the .delay() jQuery method to time out the animations (hint: .delay(i * seconds) )
-
-##Hard Mode
-Add in an additional set of buttons that allows for team size, in addition to the set of buttons that figures out team amounts.
-
-##Pro Mode
-Write unit tests using QUnit.
