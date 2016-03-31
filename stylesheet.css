@@ -1,0 +1,37 @@
+body {
+  font-family: calibri, sans-serif;
+  background-color: tomato;
+  background-image: url("Pokeball.png");
+  background-repeat: no-repeat;
+  color: #FFEA35;
+  text-shadow: 1px 1px #000000;
+
+}
+
+.group{
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+span {
+  font-weight: normal;
+  color: #FFEA35;
+
+}
+
+button {
+  padding:5px 15px;
+  background:#FFEA35;
+  border:0 none;
+  cursor:pointer;
+  border-radius: 5px;
+  font-family: calibri, sans-serif;
+  font-size: 20px;
+}
+div {
+  color: #FFFFFF;
+}
+
+h1, h2{
+  text-shadow: 2px 2px #000000;
+}
